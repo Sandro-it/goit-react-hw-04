@@ -1,0 +1,18 @@
+.searchBarForm {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  gap: 10px;
+}
+.searchBarInput {
+  font-size: 20px;
+  padding: 4px 8px;
+  border: 2px solid gray;
+  border-radius: 8px;
+}
+.searchBarButton {
+  font-size: 20px;
+  padding: 4px 8px;
+}
